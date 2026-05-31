@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvave",
+        "uuid": 16356340,
+        "checksum": "vvpudh"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
